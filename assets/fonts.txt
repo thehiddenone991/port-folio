@@ -1,0 +1,8 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Comic+Neue&family=Cutive+Mono&family=Fredoka:wght@300;400&display=swap" rel="stylesheet">
+
+font-family: 'Amatic SC', cursive;
+font-family: 'Comic Neue', cursive;
+font-family: 'Cutive Mono', monospace;
+font-family: 'Fredoka', sans-serif;
