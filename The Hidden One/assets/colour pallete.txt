@@ -1,0 +1,17 @@
+Highlight Color (Vibrant Coral): A lively coral shade adds bursts of high energy, bringing attention to important elements and adding a touch of playfulness.
+
+Accent Color (Soft Mint): A soft mint green complements the coral and adds a refreshing pop of color to sections where you want to draw the viewer's focus.
+
+Secondary Accent (Warm Beige): A warm beige adds depth and dimension, creating a cozy and approachable atmosphere within the palette.
+
+Contrast Color (Bold Espresso): A rich espresso brown serves as a strong contrast, mimicking the black and white theme while adding a touch of sophistication.
+
+Text Color (Dark Charcoal): A deep charcoal color is perfect for text, offering excellent readability against the light warm gray background.
+
+Button Color (Energetic Orange): An energetic orange shade can be used for buttons and interactive elements, adding a sense of urgency and action.
+
+Divider/Border Color (Subtle Taupe): A subtle taupe hue acts as dividers or borders, subtly separating different sections and elements.
+
+Background Highlight (Soft Cream): A soft cream color can be used for highlights or areas where you want to create contrast against the light gray base.
+
+Background Texture (Warm Tan): A warm tan texture or pattern can be added sparingly to emulate the texture of a notepad, adding depth and visual interest.

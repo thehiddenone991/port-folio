@@ -1,0 +1,52 @@
+#heading-title > h1 {font-family: 'Amatic SC', cursive; text-align: center; font-size: 1pt; color: #333333;}
+
+#heading-title img {width: 37pt; height: auto;}
+
+body {background-color: #FAFAFA;}
+
+#heading-title > a {font-family: 'Amatic SC', cursive; text-align: center; font-size: 23pt; color: #333333; text-decoration: none;}
+
+#profile-div > img {width: 650px; height: auto; float: left;}
+#profile-text > p {font-family: 'Itim', cursive; text-align: left; font-size: 30pt; color: #333333; font-weight: medium; padding-top: 50px; margin-left: 100px;}
+#aboume {font-size: 22pt; font-family: 'Shadows Into Light', cursive;  }
+ 
+body {
+    background-image: url(./assets/beige-paintbrush-stroke-textured-background.jpg);
+    background-size: cover; /* This ensures the image covers the entire element */
+    background-position: center center; /* Adjust the positioning as needed */
+    background-repeat: no-repeat; /* Prevent image from repeating */
+    padding: 10px;
+  }
+  
+h2 {font-weight: lighter; font-size: 22pt; padding-top: -20px; }
+
+
+/* Default styles */
+
+/* ... (Your existing styles) ... */
+
+/* Media query for screens with a maximum width of 768px */
+@media only screen and (max-width: 768px) {
+    body {
+        background-size: contain; /* Adjust background size for smaller screens */
+    }
+    
+    #profile-div > img {
+        width: 100%; /* Make the profile image width 100% of the container */
+        height: auto; /* Automatically adjust height to maintain aspect ratio */
+        float: none; /* Remove the float to center the image */
+    }
+    
+    #profile-text > p {
+        font-size: 18pt; /* Decrease font size for better readability on smaller screens */
+        margin-left: 20px; /* Adjust margin for better spacing */
+        padding-top: 20px; /* Adjust padding for better spacing */
+    }
+    
+    #heading-title > h1,
+    #heading-title > a {
+        font-size: 18pt; /* Decrease font size for better readability */
+    }
+    
+    /* Add other adjustments as needed for responsiveness */
+}
